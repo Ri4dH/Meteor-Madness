@@ -1,0 +1,16 @@
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\bin\Debug\heart.png
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\bin\Debug\space.jpeg
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\bin\Debug\Meteor Madness.exe.config
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\bin\Debug\Meteor Madness.exe
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\bin\Debug\Meteor Madness.pdb
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\bin\Debug\System.Drawing.Common.dll
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\bin\Debug\System.Drawing.Common.pdb
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\bin\Debug\System.Drawing.Common.xml
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\obj\Debug\Meteor Madness.csproj.AssemblyReference.cache
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\obj\Debug\Meteor_Madness.Form1.resources
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\obj\Debug\Meteor_Madness.Properties.Resources.resources
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\obj\Debug\Meteor Madness.csproj.GenerateResource.cache
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\obj\Debug\Meteor Madness.csproj.CoreCompileInputs.cache
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\obj\Debug\Meteor M.5B38A5F2.Up2Date
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\obj\Debug\Meteor Madness.exe
+C:\Users\riadh\source\repos\Meteor Madness\Meteor Madness\obj\Debug\Meteor Madness.pdb
